@@ -1,0 +1,8 @@
+{
+  "name": "BovineLens AI",
+  "description": "Advanced image-based classification and health analysis for cattle and buffaloes, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
